@@ -1,0 +1,7 @@
+label.required:after {
+    content:" *";
+    color: red;
+}
+#productRegisterForm label.error {
+    color: #ff0000;
+}
